@@ -1,6 +1,6 @@
-application_name=xiaoqing-test-extension-qt
-application_version=0.0.1
-application_description=\"xiaoqing text extension for qt\"
+application_name=xiaoqing-test-extension
+application_version=0.0.2
+application_description=\"xiaoqing text extension for sap-i332766 account\"
 application_icon=https://zh.wikipedia.org/wiki/File:User_Circle.png
 helm_chart_version=0.0.1
 docker_registry=docker.io/xiaoqing2chen
